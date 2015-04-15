@@ -1,8 +1,8 @@
-# RMG Linux Migration 2014
+# Using GitHub Pages
 
-This is a presentation I gave to the ILRI, Kenya Research Methods Group to prepare them for moving to Linux on their work machines.  I wanted them to understand where Linux came from, and why it's important to use Linux for scientific work.
+This is a presentation I gave to the ILRI, Kenya Research Methods Group about using GitHub Pages. The audience was non technical, so I tried to just give the basics and pique interest.
 
-You can view the presentation on GitHub Pages [here](https://alanorth.github.io/rmg-linux-migration-2014).
+You can view the presentation on GitHub Pages [here](https://alanorth.github.io/github-pages-2015).
 
 ## Hacking
 If you want to hack on this repo (ie for your own presentation) you will have to clone the repo and then initialize the reveal.js submodule:
