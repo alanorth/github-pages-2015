@@ -1,6 +1,6 @@
 # Using GitHub Pages
 
-This is a presentation I gave to the ILRI, Kenya Research Methods Group about using GitHub Pages. The audience was non technical, so I tried to just give the basics and pique interest.
+This is a presentation I gave to the ILRI, Kenya Research Methods Group about using GitHub Pages. The audience was non technical, so I tried to just give the basics, background on git, and pique interest.
 
 You can view the presentation on GitHub Pages [here](https://alanorth.github.io/github-pages-2015).
 
