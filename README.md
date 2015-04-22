@@ -25,11 +25,11 @@ After hacking on the slides in the `source/` directory, build the presentation a
     $ cd presentation
     $ python -m SimpleHTTPServer
 
-The presentation will be available at http://localhost:8000/.
+The presentation will be available at [http://localhost:8000](http://localhost:8000).
 
 ## LICENSE
 
 This repository contains the code of [Reveal.js](https://github.com/hakimel/reveal.js)
 which is licensed under the [MIT license](https://github.com/hakimel/reveal.js/blob/master/LICENSE).
 
-Otherwise, the contents of source/ are [Unlicensed](http://unlicense.org/UNLICENSE).
+Otherwise, the contents of `source/` are [Unlicensed](http://unlicense.org/UNLICENSE).
