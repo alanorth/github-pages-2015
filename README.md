@@ -1,5 +1,4 @@
 ## Using GitHub Pages
-
 This is a presentation I gave to the ILRI, Kenya Research Methods Group about using GitHub Pages. The audience was non technical, so I tried to just give the basics, background on git, and pique interest.
 
 ![Screenshot](/screenshot@2x.png?raw=true "Screenshot")
@@ -28,7 +27,6 @@ After hacking on the slides in the `source/` directory, build the presentation a
 The presentation will be available at [http://localhost:8000](http://localhost:8000).
 
 ### LICENSE
-
 This repository contains the code of [Reveal.js](https://github.com/hakimel/reveal.js)
 which is licensed under the [MIT license](https://github.com/hakimel/reveal.js/blob/master/LICENSE).
 
