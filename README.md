@@ -1,4 +1,4 @@
-# Using GitHub Pages
+## Using GitHub Pages
 
 This is a presentation I gave to the ILRI, Kenya Research Methods Group about using GitHub Pages. The audience was non technical, so I tried to just give the basics, background on git, and pique interest.
 
@@ -6,7 +6,7 @@ This is a presentation I gave to the ILRI, Kenya Research Methods Group about us
 
 You can view the presentation on GitHub Pages [here](https://alanorth.github.io/github-pages-2015).
 
-## Hacking
+### Hacking
 If you want to hack on this repo (ie for your own presentation) you will have to clone the repo and then initialize the reveal.js submodule:
 
     $ git submodule init
@@ -27,7 +27,7 @@ After hacking on the slides in the `source/` directory, build the presentation a
 
 The presentation will be available at [http://localhost:8000](http://localhost:8000).
 
-## LICENSE
+### LICENSE
 
 This repository contains the code of [Reveal.js](https://github.com/hakimel/reveal.js)
 which is licensed under the [MIT license](https://github.com/hakimel/reveal.js/blob/master/LICENSE).
